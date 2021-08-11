@@ -7,6 +7,6 @@
 	</th>
 </table>
 
-👨‍💻 Clean Coder<br>
-🚧 Refactoring<br>
-❤ Design Patterns<br>
+- 👨‍💻 Clean Coder
+- 🚧 Refactoring
+- ❤ Design Patterns
